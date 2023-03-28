@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<head>
+    <title>
+
+        project
+    </title>
+
+</head>
+<body>
+    <h1>
+        Find Your Destination __ 
+        <br/>
+        Where's Your Comfert __  
+    </h1>
+    <h1>
+        <b>
+            <button>
+                <div class="card">
+                    <div class="container">
+                <a href = "D:\project\pr.html\2nd.html">
+                   <h1>Single Room</h1> 
+                </a>
+                </div>
+                </div>
+            </button>
+            <center>
+            <button>
+                <div class="card">
+                    <div class="container">
+                <a href = "D:\project\pr.html\double.html">
+                   <h1> Double Room..</h1>
+                </a>
+                
+                </div>
+    
+            </button>
+        </center>
+            <button>
+                <div class="card">
+                    <div class="container">
+                <a href = "D:\project\pr.html\triple.html">
+                   <h1> Triple Room..</h1>
+                </a>
+                </div>
+                </div>
+                
+            </button>
+            <BR/>
+            <BR/>
+            <button>
+                <DIV CLASS="card">
+                    <div>
+                        <h1>
+                            <a href="D:\project\pr.html\forfamily.html">
+                            For Family
+                            </a>
+                        </h1>
+                    </div>
+                </DIV>
+            </button>
+           
+
+        <b>    
+    </h1>
+    <style>
+      
+        .container {
+          background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaperaccess.com%2Fdark-hd&psig=AOvVaw2tMMNwkptKEllWoXP6B0p_&ust=1679559226292000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjc5PKL7_0CFQAAAAAdAAAAABAH');
+          background-size: cover;
+          background-position: center;
+          height: 10vh; /* set a height for the container */
+        }
+        .card {
+          background-color: rgba(7, 222, 46, 0.1); /* Set the transparency level for the background */
+          padding: 5px;
+          border-radius: 5px;
+          box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.7);
+        }
+
+      </style>
+   </body>
